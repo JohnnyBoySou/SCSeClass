@@ -7,11 +7,10 @@ criam as atividades, os alunos acessam e respondem as atividades, sem
 necessitar de um login e senha.
 
 # Acessar
-Você consegue acessar a plataforma através do seguinte link: https://scseclass.com
+Você consegue acessar a plataforma clicando <a href="https://scseclass.com"> AQUI </a>
 
 # Redesign 
-A recriação do Design está quase pronta,
-acesse no seguinte link: https://scseclass.com/inicio-novo/.
+A recriação do Design está quase pronta, acesse clicando <a href="https://scseclass.com/inicio-novo/."> AQUI </a>
 
 # Estatísticas 
 O eClass conta com mais de 30 professores criando atividades.
