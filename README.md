@@ -14,13 +14,11 @@ A recriação do Design está quase pronta,
 acesse no seguinte link: https://scseclass.com/inicio-novo/.
 
 # Estatísticas 
-
 O eClass conta com mais de 30 professores criando atividades.
 Desde sua criação até agora tivemos 40.132 visualizações e 2.277 visitantes
 diferentes.
 
 # Tecnologias
-'
 - HTML
 - CSS com Microthemer 
 - Elementor 
